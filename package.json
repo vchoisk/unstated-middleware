@@ -1,0 +1,9 @@
+{
+  "name": "vchoisk",
+  "version": "1.0.0",
+  "description": "Calls middleware/s before invoking Container methods ",
+  "main": "index.js",
+  "repository": "https://github.com/vchoisk/unstated-middleware.git",
+  "author": "vchoisk <vchoisk@gmail.com>",
+  "license": "MIT"
+}
